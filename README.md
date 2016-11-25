@@ -3,7 +3,7 @@
 The code is running under MPLAB environment with dspic33 of Microchip. 
 You can find a homepage and a demo here: https://engineering.purdue.edu/ece477/Archive/2015/Fall/477grp8/index.html
 
-![IMG_5098](/Users/Victor/Desktop/IMG_5098.jpg)
+![alt tag](https://github.com/victor527/AntiqueMusicBox/blob/master/AMB.jpg)
 
 ##### Description of the function
 
